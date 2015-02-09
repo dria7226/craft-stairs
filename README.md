@@ -1,7 +1,7 @@
 # craft-stairs
 
 # Install
-`$ npm install craft-stairs`
+'$ npm install craft-stairs'
 
 # Parameters
 ```sh
