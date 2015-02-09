@@ -1,12 +1,14 @@
 # craft-stairs
 
-#Install
+# Install
 `$ npm install craft-stairs`
 
-#Parameters
-`numberOfSteps - determines how many steps the stairs have`
+# Parameters
+```sh
+numberOfSteps - determines how many steps the stairs have
+```
 
-#Example
+# Example
 ```html
 <craft>
 	<craft name="stairs" module="craft-stairs"/>
